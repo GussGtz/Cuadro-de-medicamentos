@@ -38,6 +38,3 @@ las dependecias del servidor son:
     "mysql": "^2.18.1"
     }
 
-
-    El trabajo es de:
-    Jonathan Hernandez Gonzalez y Gustavo Gutierrez Canul.
